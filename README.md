@@ -17,7 +17,7 @@
 
 Built with **Next.js 15**, **React 19**, **Tailwind CSS**, and integrated with the **Gemini API**, this app helps users create professional documents and prep with confidence.
 
-> 🔗 **Live Demo**: _Add your deployed Vercel URL here_
+> 🔗 **Live Demo**: https://ai-career-coach-gamma-woad.vercel.app/
 
 ---
 
